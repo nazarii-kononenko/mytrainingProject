@@ -1,0 +1,26 @@
+{
+  "OSX_Mojave_Safari_12.1_1920x1080": {
+    "browser": "Safari",
+    "browserVersion": "12.1",
+    "operationSystem": "OS X",
+    "operationSystemVersion": "Mojave",
+    "resolution": "1920x1080",
+    "localTestRun": "true"
+  },
+  "Win_10_Chrome_75_1920x1080": {
+    "browser": "Chrome",
+    "browserVersion": "75.0",
+    "operationSystem": "Windows",
+    "operationSystemVersion": "10",
+    "resolution": "1920x1080",
+    "localTestRun": "true"
+  },
+  "Win_10_IE_11_1920x1080": {
+    "browser": "IE",
+    "browserVersion": "11",
+    "operationSystem": "Windows",
+    "operationSystemVersion": "10",
+    "resolution": "1920x1080",
+    "localTestRun": "true"
+  }
+}
