@@ -1,3 +1,2 @@
-# BrowserStack
-
-BrowserStack integration.
+# My training project
+My training project
